@@ -16,4 +16,4 @@ ADDITIONAL
 
 Due to the scope of the hackathon, the entire project was created within a 24-hour framework. The web app is missing certain JavaScript functionalities that are described in our Devpost video due to a limited experience in the coding language and provided time.
 
-You may access the project through the Devpost: https://devpost.com/software/goalforgold-o7g2if
+You may access the entire project through Devpost: https://devpost.com/software/goalforgold-o7g2if
